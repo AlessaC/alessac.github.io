@@ -1,18 +1,16 @@
 ---
 layout: post
-title: Alien Baby
+title: Getting Started
 ---
 
-## Crash Site with Living Specimen
+## Why I'm Here
 
-### Alien Corpses Found
+I decided to take this class because
 
-Alien infant found a recent UFO crash site. These are the other findings:
+### Current Inspiration
 
-- Weaponry
-- Ammo
-- Smashed hive-like object
-- Gas cannisters
-- Extraterrestrial gemstones
+- [Silent Hill:](http://silenthill.wikia.com/wiki/Silent_Hill_Wiki)
+- [Mechanical Animals:](http://www.mansonwiki.com/wiki/Mechanical_Animals_%28album%29)
+- [Black Moth Super Rainbow:](www.blackmothsuperrainbow.com/)
 
 ![alien](http://www.bibliotecapleyades.net/imagenes_aliens/contact31_02.jpg)
