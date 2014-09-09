@@ -1,7 +1,18 @@
 ---
 layout: post
-title: You're up and running!
+title: Demo post from original source
 ---
+
+## Testing out Markdown
+
+  1. Hi
+  2. Hey
+  3. Hello
+  
+Heres a link to [Google](http://www.google.com)
+
+![alien](http://www.unidentified-flying-objects.net/greyaliendrawing.png)
+
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
 
