@@ -5,6 +5,8 @@ title: Alien Baby
 
 ## Crash Site with Living Specimen
 
+### Alien Corpses Found
+
 Alien infant found a recent UFO crash site. These are the other findings:
 
 - Weaponry
