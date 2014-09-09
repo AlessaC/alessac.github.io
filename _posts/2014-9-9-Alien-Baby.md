@@ -11,5 +11,5 @@ I decided to take this class because
 
 - [Silent Hill:](http://silenthill.wikia.com/wiki/Silent_Hill_Wiki)
 - [Mechanical Animals:](http://www.mansonwiki.com/wiki/Mechanical_Animals_%28album%29)
-- [Black Moth Super Rainbow:](http://www.blackmothsuperrainbow.com/)
+- [Nubby Twiglet:](http://www.nubbytwiglet.com/)
 
